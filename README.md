@@ -4,7 +4,7 @@ The research has been published in _Earth's Future_ and can be freely accessed t
 To use the model, please follow the instructions on the [Technical Document](Technical_Documents.pdf).
 
 ## Model Highlights
-###### 1. Eco-Morphodynamic Feedback Loop
+###### 1. Eco-Morphodynamic Feedback Loop 
 <p align="center" width="100%">
     <img src="figs/fig1.png" width="600">
 </p>
